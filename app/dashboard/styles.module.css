@@ -1,0 +1,9 @@
+/* styles.css or styles.module.css */
+
+.h1 {
+  font-size: 2rem; /* Adjust the font size for your header tag */
+}
+
+.p {
+  font-size: 1rem; /* Adjust the font size for your paragraph tag */
+}
